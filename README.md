@@ -9,7 +9,7 @@ Al terminar mi educación secundaria trabajé dos años de manera freelance desa
 
 Finalmente, me metí de lleno en el mundo del <b>Business Intelligence & Business Analytics</b>. 
 
-Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de aplicaciones (tanto Web como Mobile), con lo cual, me continúo capacitando en Java (Full Stack) y otras herramientas que describo a continuación.
+Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de aplicaciones (tanto Web como Mobile), con lo cual, me continúo capacitando en Java (Full Stack) y otras herramientas que describo a continuación. A su vez, disfruto de interrelacionar de manera creativa distintas áreas de conocimiento, por tal motivo, me gustaría poder complementar mi formación técnica con el camino que estoy transitando en Psicología. Me gusta trabajar en equipo, sobre todo en equipos interdisciplinarios donde se fomenta el pensamiento creativo.
 
 ## Actualmente
 
