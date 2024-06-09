@@ -1,20 +1,21 @@
 # Hola Mundo 👋
-Mi nombre es Mariela Montaldo, soy una apasionada por la tecnología y la Literatura desde muy temprana edad. 
+Mi nombre es Mariela Montaldo y soy una apasionada por la tecnología y la Literatura. 
 
 Desde mi más temprana infancia supe que mi trabajo tendría que ver con la tecnología. Mis juegos tenían que ver con disfrazarme de <i>"la científica de las computadoras"</i> y desarmar el gabinete de mi <i>Intel i386 con 64 MB de RAM</i>, así como todo artefacto electrónico que pasara por mis manos.
 
-Durante la adolescencia, aprendí desarrollo web (lo cual culminó en desarrollar el sitio web del colegio) y al terminar mi educación secundaria trabajé dos años de manera freelance desarrollando en PHP y Symfony Framework. Finalmente, ingresé a trabajar en Business Intelligence & Business Analytics. Hoy, tengo intención de volver a las raíces y continuar con el desarrollo de aplicaciones (en cualquier soporte).
+Durante la adolescencia, esos sueños de la infancia comenzaron a volcarse en proyectos y aprendí desarrollo web (lo cual culminó en desarrollar el sitio web del colegio). Al terminar mi educación secundaria trabajé dos años de manera freelance desarrollando en PHP y Symfony Framework. Finalmente, me metí de lleno en el mundo del Business Intelligence & Business Analytics. Hoy, tengo intención de volver a las raíces y continuar con el desarrollo de aplicaciones (en cualquier soporte).
 
 ## Actualmente
 
-- 🔭 Me desempeño como BI&BA Sr Analyst y Líder de Proyecto en el proyecto de Contratos Inteligentes (Provincia Seguros S.A.).
-- 🌱 Estoy aprendiendo Java Full Stack (Codo a Codo 2024) y Docker. Además, estoy estudiando Licenciatura en Psicología ([UAI](https://uai.edu.ar/facultades/psicolog%C3%ADa-y-relaciones-humanas/licenciatura-en-psicolog%C3%ADa/)).
-- 👯 En Programación, me gustaría colaborar con proyectos donde pueda aplicar y hacer crecer mis habilidades en los distintos lenguajes que manejo. Respecto a Psicología, me gustaría participar de algún proyecto de investigación aplicando mis habilidades y conocimientos de programación en temáticas de mi interés como Psicología Social, comportamiento, y neurodivergencias.
-- 🤔 Busco ayuda con manejo de autenticaciones en Java
-- 💬 Puedo ayudar con temas relacionados a Business Intelligence & Business Analytics, en especial sobre MS SQL Server, IBM DatStage, MicroStrategy y Cognos Analytics. También tengo dos años de experiencia con PHP y Symfony Framework.
-- 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/mmontaldo/)
+- 🔭 Me desempeño como <b>BI&BA Sr Analyst</b> y <b>Líder de Proyecto</b> en el proyecto de <b>Contratos Inteligentes</b> (Provincia Seguros S.A.).
+- 🌱 Estoy aprendiendo <b>Java Full Stack</b> (Codo a Codo 2024) y Docker. Además, estoy estudiando <b>Licenciatura en Psicología</b> ([UAI](https://uai.edu.ar/facultades/psicolog%C3%ADa-y-relaciones-humanas/licenciatura-en-psicolog%C3%ADa/)).
+- 👯 En Programación, me gustaría colaborar con proyectos donde pueda aplicar y hacer crecer mis habilidades en los distintos lenguajes que manejo. Respecto a Psicología, me gustaría participar de algún proyecto de investigación plasmando conocimientos y habilidades de programación en temáticas de interés como Psicología Social, comportamiento, y neurodivergencias.
+- 🤔 Busco ayuda con manejo seguro de autenticaciones en Java Web.
+- 💬 Puedo ayudar con temas relacionados a <b>Business Intelligence & Business Analytics</b>, en especial sobre MS SQL Server, IBM DatStage, MicroStrategy y Cognos Analytics. También tengo dos años de experiencia con <b>PHP y Symfony Framework</b>.
+- 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/mmontaldo/).
 - 😄 Mis pronombres son: Ella/She/Her.
-- ⚡ Fun fact: Soy fan de la Literatura desde muy temprana edad ([mi cuenta en GoodReads](https://www.goodreads.com/user/show/76202148-mariela)). Formo parte de la comunidad LGBTIQ+ :rainbow_flag:
+- :books: Soy fan de la Literatura desde muy temprana edad ([mi cuenta en GoodReads](https://www.goodreads.com/user/show/76202148-mariela)).
+- :rainbow_flag: Formo parte de la comunidad LGBTIQ+ .
 
 ## Tecnologías que manejo
 
