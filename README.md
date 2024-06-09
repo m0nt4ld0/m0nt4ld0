@@ -3,7 +3,7 @@ Mi nombre es Mariela Montaldo y soy una apasionada por la tecnología y la Liter
 
 Desde mi más temprana infancia supe que mi trabajo tendría que ver con la tecnología. Mis juegos tenían que ver con disfrazarme de <i>"la científica de las computadoras"</i> y desarmar el gabinete de mi <i>Intel i386 con 64 MB de RAM</i>, así como todo artefacto electrónico que pasara por mis manos. Todo esto sumado a una infinita curiosidad por entender cómo funcionaba la computadora, que provocó que no quisiera nunca despegar los dedos del teclado. Sin saberlo, ya había decidido dejarme llevar por aquella pasión.
 
-Durante la adolescencia, esos sueños de la infancia comenzaron a volcarse en proyectos y aprendí desarrollo web de forma <b>autodidacta<b> (lo cual culminó en desarrollar el sitio web del colegio). 
+Durante la adolescencia, esos sueños de la infancia comenzaron a volcarse en proyectos y aprendí desarrollo web de forma <b>autodidacta</b> (lo cual culminó en desarrollar el sitio web del colegio). 
 
 Al terminar mi educación secundaria trabajé dos años de manera freelance desarrollando en <b>PHP y Symfony Framework</b>. 
 
