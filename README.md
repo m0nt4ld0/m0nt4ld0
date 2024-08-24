@@ -14,7 +14,7 @@ Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de apl
 ## Actualmente
 
 - 🔭 Me desempeño como <b>BI&BA Sr Analyst</b> y <b>Líder de Proyecto</b> en el proyecto de <b>Contratos Inteligentes</b> (Provincia Seguros S.A.).
-- 🌱 Estoy aprendiendo <b>Java Full Stack</b> (Codo a Codo 2024) y Docker. Además, estoy estudiando <b>Licenciatura en Psicología</b> ([UAI](https://uai.edu.ar/facultades/psicolog%C3%ADa-y-relaciones-humanas/licenciatura-en-psicolog%C3%ADa/)).
+- 🌱 Estoy dando mis primeros pasos como <b>Java Full Stack Developer</b>. Además, estoy estudiando <b>Licenciatura en Psicología</b> ([UAI](https://uai.edu.ar/facultades/psicolog%C3%ADa-y-relaciones-humanas/licenciatura-en-psicolog%C3%ADa/)).
 - 👯 En Programación, me gustaría colaborar con proyectos donde pueda aplicar y hacer crecer mis habilidades en los distintos lenguajes que manejo. Respecto a Psicología, me gustaría participar de algún proyecto de investigación plasmando conocimientos y habilidades de programación en temáticas de interés como Psicología Social, comportamiento, y neurodivergencias.
 - 🤔 Busco ayuda con manejo seguro de autenticaciones en Java Web.
 - 💬 Puedo ayudar con temas relacionados a <b>Business Intelligence & Business Analytics</b>, en especial sobre MS SQL Server, IBM DatStage, MicroStrategy y Cognos Analytics. También tengo dos años de experiencia con <b>PHP y Symfony Framework</b>.
