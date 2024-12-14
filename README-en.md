@@ -1,4 +1,6 @@
 # Hello World 👋 
+[🌐 Ir a la versión en español](README.md)
+
 My name is Mariela Montaldo, and I am passionate about technology and literature.
 
 From a very young age, I knew my work would be connected to technology. My childhood games revolved around dressing up as a <i>"computer scientist"</i> and dismantling the cabinet of my <i>[Intel i386 with 16 MB of RAM](https://en.wikipedia.org/wiki/I386)</i>, as well as every electronic device that came into my hands. All of this was fueled by an endless curiosity to understand how computers worked, which made me never want to take my fingers off the keyboard. Without realizing it, I had already decided to let that passion guide me.
