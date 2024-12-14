@@ -1,4 +1,4 @@
-# Hola Mundo 👋 Hello World
+# Hola Mundo 👋
 [🌐 Go to the English version](README-en.md)
 
 Mi nombre es Mariela Montaldo y soy una apasionada por la tecnología y la Literatura. 
