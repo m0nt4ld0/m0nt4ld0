@@ -29,12 +29,12 @@ Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de apl
 ### Lenguajes de Programación
 | Lenguaje  | Nivel |
 | ------------- | ------------- |
+| Java  | :smile:  |
 | C# .NET  | :smile:  |
 | PHP  | :smile: |
 | HTML5, CSS3, Javascript  | :smile:  |
 | Python  | :slightly_smiling_face:  |
 | C/C++  | :slightly_smiling_face:  |
-| Java  | :slightly_smiling_face:  |
 | RPG  | :slightly_smiling_face: |
 
 ### Herramientas
