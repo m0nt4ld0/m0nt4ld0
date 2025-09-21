@@ -11,12 +11,13 @@ Al terminar mi educación secundaria trabajé dos años de manera freelance desa
 
 Finalmente, me metí de lleno en el mundo del <b>Business Intelligence & Business Analytics</b>. 
 
-Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de aplicaciones (tanto Web como Mobile), con lo cual, me continúo capacitando en Java (Full Stack) y otras herramientas que describo a continuación. A su vez, disfruto de interrelacionar de manera creativa distintas áreas de conocimiento, por tal motivo, me gustaría poder complementar mi formación técnica con el camino que estoy transitando en Psicología. Me gusta trabajar en equipo, sobre todo en equipos interdisciplinarios donde se fomenta el pensamiento creativo.
+Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de aplicaciones (tanto Web como Mobile), con lo cual, me continúo capacitando en Java (Full Stack) y otras tecnologías que detallo a continuación. A su vez, disfruto de interrelacionar de manera creativa distintas áreas de conocimiento, por tal motivo, me gustaría poder complementar mi formación técnica con el camino que estoy transitando en Psicología. Me gusta trabajar en equipo, sobre todo en equipos interdisciplinarios donde se fomenta el pensamiento creativo.
 
 ## Actualmente
 
 - 🔭 Me desempeño como <b>Web Developer</b> en Provincia Seguros S.A. desarrollando en Java (11, 17 y 21, fundamentalmente) y donde también trabajé como <b>BI&BA Sr Analyst</b> durante cuatro años y fui <b>Líder de Proyecto</b> en el proyecto de <b>Contratos Inteligentes</b> durante otros dos años.
-- 🌱 Estoy dando mis primeros pasos con <b>React JS</b> en el curso de Talento Tech. Además, estoy estudiando <b>Licenciatura en Psicología</b> ([UAI](https://uai.edu.ar/facultades/psicolog%C3%ADa-y-relaciones-humanas/licenciatura-en-psicolog%C3%ADa/)) y una **Diplomatura en Java** a distancia en el **Politécnico de Colombia**.
+- 🕹️ Estoy a la cabeza de <a href="https://www.respawnparty.com.ar">Respawn Party</a>, un emprendimiento de <b>animación de fiestas infantiles con temática gamer y alquiler de consolas de videojuegos</b>.
+- 🌱 Estoy dando mis primeros pasos con <b>React JS</b> en el curso de Talento Tech. Además, estoy estudiando <b>Licenciatura en Psicología</b> ([UAI](https://uai.edu.ar/facultades/psicolog%C3%ADa-y-relaciones-humanas/licenciatura-en-psicolog%C3%ADa/)).
 - 👯 En Programación, me gustaría colaborar con proyectos donde pueda aplicar y hacer crecer mis habilidades en los distintos lenguajes que manejo. Respecto a **Psicología**, me gustaría participar de algún proyecto de investigación plasmando conocimientos y habilidades de programación en temáticas de interés como **Psicología Social, el impacto de las TICs en el comportamiento, y neurodivergencias**.
 - 💬 Puedo ayudar con temas relacionados a <b>Business Intelligence & Business Analytics</b>, en especial sobre MS SQL Server, IBM DataStage, MicroStrategy y Cognos Analytics. También tengo dos años de experiencia con <b>PHP y Symfony Framework</b>.
 - 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/mmontaldo/).
