@@ -31,6 +31,7 @@ Hoy, tengo interés en volver a las raíces y continuar con el desarrollo de apl
 | Lenguaje  | Nivel |
 | ------------- | ------------- |
 | Java  | :smile:  |
+| Vue.js  | :slightly_smiling_face:  |
 | C# .NET  | :smile:  |
 | PHP  | :smile: |
 | HTML5, CSS3, Javascript  | :smile:  |
